@@ -39,3 +39,12 @@ $ express passport-local-express4
    run the app:
      $ DEBUG=passport-local-express4:* npm start
 ```
+
+## Update the dependecies
+   ╭─────────────────────────────────────╮
+   │                                     │
+   │   Update available 5.3.0 → 5.5.1    │
+   │     Run npm i -g npm to update      │
+   │                                     │
+   ╰─────────────────────────────────────╯
+
